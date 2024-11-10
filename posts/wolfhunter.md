@@ -18,7 +18,7 @@ I spent two weekends on the project, which—despite my prior experience in game
 
 Wolfhunter is an 8-bit RPG where you play as a hunter facing off against a werewolf, in a Pokemon-like combat sequence.
 
-You have magic spells and single-use items at your disposal, but the wolf is very powerful. The only way to kill it is to weaken it with your attacks, then finish it off with a silver-knife (which you only have one shot at).
+You have magic spells and single-use items at your disposal, but the wolf is very powerful. The only way to kill it is to weaken it with your attacks, then finish it off with a silver-knife (which you only have owne shot at).
 
 It is made with [PICO-8](https://www.lexaloffle.com/pico-8.php), and can be played directly in your browser [here](https://pixegami.github.io/wolfhunter/).
 
